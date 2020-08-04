@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "slug": "bitcoin",
+        "num_market_pairs": 8526,
+        "price": 11208.5992624
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "slug": "xrp",
+        "num_market_pairs": 588,
+        "price": 382.729500851
+    },
+    {
+        "name": "XRP",
+        "symbol": "XRP",
+        "slug": "ethereum",
+        "num_market_pairs": 5292,
+        "price": 0.28987082801
+    }
+]
